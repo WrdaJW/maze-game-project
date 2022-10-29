@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2168742084557220163
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1030509758618119715, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TrollSpeedUp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168908, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2299161230116168909, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_Name
+      value: TrollSpeedDebuf Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380509189028177624, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
+      propertyPath: m_Text
+      value: "\uD2B8\uB864\uC758 \uC18D\uB3C4\uAC00 \uBE68\uB77C\uC9D1\uB2C8\uB2E4"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad169d2c6a330c14aa1e6250333ff571, type: 3}
