@@ -128,7 +128,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 563}
   m_MaxSize: {x: 22006, y: 12063}
   vertical: 0
-  controlID: 122
+  controlID: 142
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -148,8 +148,8 @@ MonoBehaviour:
     y: 0
     width: 289
     height: 987
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -281,7 +281,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 563}
   m_MaxSize: {x: 4001, y: 12063}
   vertical: 1
-  controlID: 16
+  controlID: 60
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -301,8 +301,8 @@ MonoBehaviour:
     y: 0
     width: 1190
     height: 387
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -379,8 +379,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\qbdrm\\Desktop\\\uD559\uAD50\\4\uD559\uB144 1\uD559\uAE30\\\uB514\uC9C0\uD138
-    \uCEE8\uD150\uCE20\\1591051SJW"
+  m_LastProjectPath: C:\Users\qbdrm\Documents\GitHub\maze-game-project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -442,7 +441,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000062440000e8420000e64c00003e440000545700002c4500002e45000030450000a64000000441000090420000964a0000bcd3ffffec48ffff0000000008470000fae30100be42000022bbffff
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -536,7 +535,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 424a0000
       m_LastClickedID: 0
       m_ExpandedIDs: 70fbffff
       m_RenameOverlay:
@@ -649,7 +648,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.0602727, y: -0.007181006, z: 0.00075172895, w: -0.99820113}
     speed: 2
-    m_Value: {x: -0.0602727, y: -0.007181006, z: 0.00075172895, w: -0.99820113}
+    m_Value: {x: -0.060269978, y: -0.0071806815, z: 0.000751695, w: -0.998156}
   m_Size:
     m_Target: 11.03217
     speed: 2

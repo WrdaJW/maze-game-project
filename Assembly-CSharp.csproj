@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1E65A0CE-03E5-917A-4BD7-17A5BF2D9C11}</ProjectGuid>
+    <ProjectGuid>{4A87B0E1-547A-8F2A-257A-ACBD82C98521}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,6 +62,7 @@
     <Compile Include="Assets\Script\cshSpawn.cs" />
     <Compile Include="Assets\Downloads\AN Interactive Physical Door Pack\Scripts\AN_PlugScript.cs" />
     <Compile Include="Assets\Script\cshPlayerSelect.cs" />
+    <Compile Include="Assets\Script\cshPlayerCollider2.cs" />
     <Compile Include="Assets\Script\cshKeyRotate.cs" />
     <Compile Include="Assets\Downloads\AN Interactive Physical Door Pack\Scripts\AN_HeroInteractive.cs" />
     <Compile Include="Assets\Script\cshHpControl.cs" />
@@ -78,7 +79,7 @@
     <Compile Include="Assets\Downloads\HealthHeartSystem\Scripts\HealthBarHUDTester.cs" />
     <Compile Include="Assets\Script\cshBoxSpawn.cs" />
     <Compile Include="Assets\Downloads\AN Interactive Physical Door Pack\Scripts\AN_DoorScript.cs" />
-    <Compile Include="Assets\Script\cshPlayerCollider2.cs" />
+    <Compile Include="Assets\check.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Downloads\HealthHeartSystem\readme.txt" />
